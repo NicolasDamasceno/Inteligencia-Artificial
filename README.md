@@ -24,7 +24,7 @@ Este repositório contém o desenvolvimento de modelos de IA e Redes Neurais ori
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio-ia.git](https://github.com/seu-usuario/seu-repositorio-ia.git)
+   git clone https://github.com/NicolasDamasceno/Inteligencia-Artificial.git
 
 2. **Instale as dependências contidas no requirements.txt**
     ```bash
