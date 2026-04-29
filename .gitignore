@@ -1,0 +1,13 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dados e Logs
+.ipynb_checkpoints/
+*.log
