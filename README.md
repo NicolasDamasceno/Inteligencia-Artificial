@@ -16,6 +16,7 @@ Este repositório contém o desenvolvimento de modelos de IA e Redes Neurais ori
 - **Avaliação de Modelos:** Análise de performance via `accuracy_score` e Matriz de Confusão.
 
 ## 📂 Estrutura do Repositório
+- `/analise-imagens`: Utilização de I.A para análise de imagens.
 - `/modelos`: Scripts Python (.py) para execução local.
 - `/data`: Datasets utilizados para o treinamento dos modelos.
 - `requirements.txt`: Lista de dependências necessárias para rodar o projeto.
